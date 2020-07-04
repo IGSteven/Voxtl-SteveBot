@@ -1,2 +1,2 @@
 
-Copyright (C) 2020 Steve
+Copyright (C) 2020 XKG LTD
